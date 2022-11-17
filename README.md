@@ -36,6 +36,13 @@ Output: Total number of boxes sold: 141
 Total money made: $211.50
 Average number of boxes sold by each person: 28
 ```
+```
+Input: -1
+3.50
+Output: Total number of boxes sold: 0
+Total money made: $0.00
+No input.
+```
 
 ## How to Submit:
 1. Once you are in your private `repository`
